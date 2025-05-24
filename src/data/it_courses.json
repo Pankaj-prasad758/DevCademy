@@ -1,0 +1,103 @@
+
+[
+  {
+    "id": 1,
+    "title": "Full-Stack Web Development Bootcamp",
+    "slug": "full-stack-web-development-bootcamp",
+    "description": "Master web development from front to back with hands-on projects in HTML, CSS, JavaScript, React, Node.js, and MongoDB.",
+    "price": 199.99,
+    "instructor": "Pankaj Prasad",
+    "isFeatured": true,
+    "image": "/courses/fullstack-web-dev.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Frontend Developer Essentials",
+    "slug": "frontend-developer-essentials",
+    "description": "Learn to build responsive and accessible user interfaces using HTML5, CSS3, JavaScript, and modern frameworks like React and Tailwind.",
+    "price": 129.99,
+    "instructor": "Sara Mitchell",
+    "isFeatured": false,
+    "image": "/courses/frontend-essentials.jpg"
+  },
+  {
+    "id": 3,
+    "title": "JavaScript Mastery: Zero to Hero",
+    "slug": "javascript-mastery-zero-to-hero",
+    "description": "Deep dive into JavaScript fundamentals and advanced concepts including ES6, DOM manipulation, and asynchronous programming.",
+    "price": 99.99,
+    "instructor": "David Kim",
+    "isFeatured": true,
+    "image": "/courses/js-mastery.jpg"
+  },
+  {
+    "id": 4,
+    "title": "React.js Complete Guide",
+    "slug": "reactjs-complete-guide",
+    "description": "Build powerful web apps with React.js, covering components, hooks, context API, routing, and best practices.",
+    "price": 149.99,
+    "instructor": "Emily Carter",
+    "isFeatured": true,
+    "image": "/courses/react-guide.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Backend Development with Node & Express",
+    "slug": "backend-development-node-express",
+    "description": "Learn to build scalable server-side applications using Node.js, Express, and RESTful APIs.",
+    "price": 139.99,
+    "instructor": "Michael Lee",
+    "isFeatured": false,
+    "image": "/courses/backend-node.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Mastering Git & GitHub",
+    "slug": "mastering-git-github",
+    "description": "Version control like a pro with this complete Git and GitHub course. Includes branching, merging, and real-world workflows.",
+    "price": 49.99,
+    "instructor": "Nina Patel",
+    "isFeatured": false,
+    "image": "/courses/git-github.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Responsive Web Design with Tailwind CSS",
+    "slug": "responsive-web-design-tailwind",
+    "description": "Create beautiful and responsive websites using the utility-first Tailwind CSS framework.",
+    "price": 89.99,
+    "instructor": "Pankaj Prasad",
+    "isFeatured": true,
+    "image": "/courses/tailwind-css.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Building REST APIs with Express & MongoDB",
+    "slug": "building-rest-apis-express-mongodb",
+    "description": "Build real-world APIs using Express.js and MongoDB, including CRUD operations and authentication.",
+    "price": 119.99,
+    "instructor": "James Alvarez",
+    "isFeatured": false,
+    "image": "/courses/rest-api.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Web Development Project Lab",
+    "slug": "web-development-project-lab",
+    "description": "Work on real-life projects and build a strong portfolio with guided mentorship and live feedback.",
+    "price": 159.99,
+    "instructor": "Aisha Khan",
+    "isFeatured": true,
+    "image": "/courses/project-lab.jpg"
+  },
+  {
+    "id": 10,
+    "title": "UI/UX Design for Web Developers",
+    "slug": "ui-ux-design-for-web-developers",
+    "description": "Learn the essentials of UI/UX design to enhance your web development projects and build user-friendly interfaces.",
+    "price": 109.99,
+    "instructor": "Leo Brown",
+    "isFeatured": false,
+    "image": "/courses/ui-ux.jpg"
+  }
+]
