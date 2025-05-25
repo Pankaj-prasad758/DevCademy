@@ -1,5 +1,6 @@
 
-[
+{
+  "courses" : [
   {
     "id": 1,
     "title": "Full-Stack Web Development Bootcamp",
@@ -8,7 +9,7 @@
     "price": 199.99,
     "instructor": "Pankaj Prasad",
     "isFeatured": true,
-    "image": "/courses/fullstack-web-dev.jpg"
+    "image": "C:/Users/Admin/Documents/GitHub/DevCademy/public/images/web-development.jpg"
   },
   {
     "id": 2,
@@ -101,3 +102,5 @@
     "image": "/courses/ui-ux.jpg"
   }
 ]
+
+}
